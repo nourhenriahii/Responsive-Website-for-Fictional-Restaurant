@@ -1,9 +1,1 @@
-# checkpoint1-networking
-# generative-ai-professionals
-# tt-ai-support-chatbot
-# Projet-HTML-1
-# Projet-HTML-1
-# Projet-HTML-1
-# HTML-Projet-2
-# Projet-CSS
 # Responsive-Website-for-Fictional-Restaurant
